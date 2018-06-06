@@ -1,6 +1,5 @@
 # mlTeachings
 
-<<<<<<< HEAD
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=0_teaser.ipynb?urlpath=tree) Teaser
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=1_1_intro_tidyverse.ipynb?urlpath=tree) Tidyverse
