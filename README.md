@@ -13,3 +13,13 @@
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=1_5_dt.ipynb?urlpath=tree) DT
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=1_6_titanic.ipynb?urlpath=tree) Titanic Example
+
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_1_BiasVariance.ipynb?urlpath=tree) Bias Variance
+
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_2_ModelPerformance.ipynb?urlpath=tree) Model Performance
+
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_3_ModelSelection.ipynb?urlpath=tree) Model Selection
+
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_4_HyperparameterOptimization.ipynb?urlpath=tree) Hyperparameter Optimization
+
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_4_CreditCardFraud.ipynb?urlpath=tree) Credit Card Fraud Example
