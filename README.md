@@ -1,6 +1,5 @@
 # mlTeachings
 
-<<<<<<< HEAD
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=0_teaser.ipynb?urlpath=tree) Teaser
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=1_1_intro_tidyverse.ipynb?urlpath=tree) Tidyverse
@@ -17,7 +16,6 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_1_BiasVariance.ipynb?urlpath=tree) Bias Variance
 
-<<<<<<< HEAD
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_2_ModelPerformance.ipynb?urlpath=tree) Model Performance
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_3_ModelSelection.ipynb?urlpath=tree) Model Selection
@@ -25,3 +23,4 @@
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_4_HyperparameterOptimization.ipynb?urlpath=tree) Hyperparameter Optimization
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fabiocolombo/mlTeachings/master?filepath=2_4_CreditCardFraud.ipynb?urlpath=tree) Credit Card Fraud Example
+
